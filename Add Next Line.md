@@ -1,4 +1,4 @@
 # Project-Demo
 This is My First Git Repository
 <br>
-Author-Uttam Singg
+Author-Uttam Singh
